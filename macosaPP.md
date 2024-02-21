@@ -2,7 +2,7 @@
 
 ### Introductio
 
-n
+ns
 
 This privacy policy will help you understand what information is collected in apps built by myself: Abdulraqib Olayanju*, how \_All my apps* use it, and whatchoices you have.
 _I_ built the _these_ apps as free apps. This SERVICE is provided by _me_ at no cost and is intended for use as is.
